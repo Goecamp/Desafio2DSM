@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color> <!-- Negro -->
+    <color name="white">#FFFFFFFF</color> <!-- Blanco -->
+
+    <!-- Colores del tema -->
+    <color name="colorPrimary">#FF6F00</color> <!-- Naranja (cambio para más contraste) -->
+    <color name="colorPrimaryDark">#E64A19</color> <!-- Naranja oscuro -->
+    <color name="colorSecondary">#6200EE</color> <!-- Púrpura -->
+
+    <!-- Color de fondo claro -->
+    <color name="background_color">#FFEBAD</color><!-- Fondo claro (mantén este, queda perfecto) -->
+</resources>
